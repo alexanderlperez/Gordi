@@ -6,6 +6,7 @@
 
 ### Usage
 
+```
 node gordi.js <LESS file> [--print-queries] [--show-unmatched] [--ignore <path>] [--root-glob <glob>]  
 
 Options:  
@@ -14,5 +15,4 @@ Options:
 --ignore <path>    Ignore a file path.  Can be used multiple times.  
 --root-glob <glob> Limit searches to patches matching glob  
 --verbose          Show errors and extra messages
-
-
+```
