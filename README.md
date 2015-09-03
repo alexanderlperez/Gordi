@@ -4,7 +4,7 @@
 
  Note: All console output is wrapped in CSS block-comments for easier piping to files. 
 
- ### Usage
+### Usage
 
 node gordi.js <LESS file> [--print-queries] [--show-unmatched] [--ignore <path>] [--root-glob <glob>]  
 
